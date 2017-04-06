@@ -1,1 +1,1 @@
-# draglist
+# draglist Hazir deyil.
